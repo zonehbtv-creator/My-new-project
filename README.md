@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title Laser Hologram For Event Hall Decoration
+# Project Title Building AI course projects.
 
 Final project for the Laser Hologram For Event Hall Decoration
 
